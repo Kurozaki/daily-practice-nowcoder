@@ -1,7 +1,6 @@
 package test;
 
 import java.io.File;
-import java.io.FileOutputStream;
 import java.io.FileWriter;
 
 public class CodeTest {
